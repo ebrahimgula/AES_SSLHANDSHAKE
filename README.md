@@ -8,8 +8,9 @@ This is a simulated Client Server interaction in java showcasing an SSL Handshak
 Diagram of program flow:
 
 Client                           		Server
+
 		Setup_Request: Hello
-	  --------------------------------->
+	 --------------------------------->
 
             Setup: Server's RSA Public key
 	  <---------------------------------
