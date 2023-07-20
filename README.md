@@ -7,7 +7,7 @@ This is a simulated Client Server interaction in java showcasing an SSL Handshak
 
 Diagram of program flow:
 
-Client                           		Server
+Client - - - - - - - - - - - - - - - - - - - - Server
 
 		Setup_Request: Hello
 	 --------------------------------->
